@@ -1,0 +1,1 @@
+This is an open-source GPU-based compression tool to convert images from a standard format to the PVR texture format used in mobile devices.
